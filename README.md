@@ -16,15 +16,15 @@
         		<embed src="movie.swf" width="320" height="240">  
     		</object> 
 		</video>
- 
+            <iframe height="265" style="width: 100%;" scrolling="no" title="Removing people from complex backgrounds in real time using TensorFlow.js" src="https://codepen.io/jasonmayes/embed/preview/GRJqgma?height=265&theme-id=light&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/jasonmayes/pen/GRJqgma'>Removing people from complex backgrounds in real time using TensorFlow.js</a> by Jason Mayes
+  (<a href='https://codepen.io/jasonmayes'>@jasonmayes</a>) on <a href='https://codepen.io'>CodePen</a>.
+           </iframe>
    
 	</body>
 </html>
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="Removing people from complex backgrounds in real time using TensorFlow.js" src="https://codepen.io/jasonmayes/embed/preview/GRJqgma?height=265&theme-id=light&default-tab=js,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/jasonmayes/pen/GRJqgma'>Removing people from complex backgrounds in real time using TensorFlow.js</a> by Jason Mayes
-  (<a href='https://codepen.io/jasonmayes'>@jasonmayes</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+
 
 
 <!-- Markdeep: --><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js?" charset="utf-8"></script>
